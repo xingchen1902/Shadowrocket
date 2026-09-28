@@ -7,6 +7,7 @@
 - `shadowrocket-split-routing.conf` — 分流配置（策略组 + 分流规则）
 
 ## 导入方式
+导入链接：https://raw.githubusercontent.com/xingchen1902/Shadowrocket/refs/heads/main/shadowrocket-split-routing.conf
 
 Shadowrocket → 配置 → 右上角 `+` → 从 URL 添加，粘贴上面那个 `.conf` 文件的 raw 地址。
 
